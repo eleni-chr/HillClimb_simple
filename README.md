@@ -1,0 +1,2 @@
+# HillClimb_simple
+This function performs a hill climbing algorithm, which is an iterative optimisation algorithm that starts with an arbitrary solution to a problem, then attempts to find a better solution by making an incremental change to the solution. If the change produces a better solution, another incremental change is made to the new solution, and so on until no further improvements can be found. The function uses a relatively simple function to which the problem is finding the global maximum.
